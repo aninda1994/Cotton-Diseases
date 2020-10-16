@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ## Technologies Used
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/)[<img target="_blank" src="https://www.gstatic.com/devrel-devsite/prod/v7cbba9dce83f2a54b727914bb06dd524b80e611a7d1fe33e121163235013f003/tensorflow/images/lockup.svg?dcb_=0.9529688424605776" width=200>](https://www.tensorflow.org/) 
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://keras.io/img/logo.png" width=200>](https://keras.io/)[<img target="_blank" src="https://www.gstatic.com/devrel-devsite/prod/v7cbba9dce83f2a54b727914bb06dd524b80e611a7d1fe33e121163235013f003/tensorflow/images/lockup.svg?dcb_=0.9529688424605776" width=200>](https://www.tensorflow.org/) 
 
 ## Bug / Feature Request
 
